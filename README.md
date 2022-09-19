@@ -6,12 +6,13 @@ A repository containing PLC simulation software and examples.
 
 |ID|Description|Link|
 | :------------| :------------ | :------------ |
-|1.|Apps|*[Apps Link](https://github.com/Cale-Torino/IOT_Projects/tree/main/1.%20Wemos%20D1%20Mini%20WIFI%20MultiSensor)*|
-|2.|Docs|*[Docs Link](https://github.com/Cale-Torino/IOT_Projects/tree/main/2.%20TL866ll%20Programmer)*|
+|1.|Apps|*[Apps Link](https://github.com/Cale-Torino/PLC_Simulation_Software/tree/main/Apps)*|
+|2.|Docs|*[Docs Link](https://github.com/Cale-Torino/PLC_Simulation_Software/tree/main/Docs)*|
 
 |0.|NULL files|*[NULL Link](NULL)*|
 
 - Useful links
+
     - [PLC programing in C#](https://stackoverflow.com/questions/3302450/plc-programing-in-c-sharp-net)
 
     - [PLC communication using net](https://www.codeproject.com/articles/616262/plc-communication-using-net)
